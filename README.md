@@ -32,7 +32,7 @@ Enquanto outros constroem **soluções fechadas em cima de projetos abertos**, n
 ---
 
 ## 📦 Projetos Atuais
-- [**DeLerian Orchestrator**](https://github.com/NotLerian/delerian) 🚦  
+- [**Chronos Orchestrator**](https://github.com/NotLerian/Chronos) 🚦  
   Orquestrador transacional para Midaz/Lerian, com suporte a sagas, compensações e retries.  
 
 ---
